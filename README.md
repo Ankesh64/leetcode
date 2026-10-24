@@ -76,6 +76,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Ankesh64/leetcode/tree/master/0050-powx-n) |
 | [1323-maximum-69-number](https://github.com/Ankesh64/leetcode/tree/master/1323-maximum-69-number) |
+| [2409-count-days-spent-together](https://github.com/Ankesh64/leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ankesh64/leetcode/tree/master/0058-length-of-last-word) |
+| [2409-count-days-spent-together](https://github.com/Ankesh64/leetcode/tree/master/2409-count-days-spent-together) |
 ## Quicksort
 |  |
 | ------- |
