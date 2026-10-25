@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankesh64/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ankesh64/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankesh64/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ankesh64/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankesh64/leetcode/tree/master/0053-maximum-subarray) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankesh64/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ankesh64/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Ankesh64/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankesh64/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankesh64/leetcode/tree/master/0088-merge-sorted-array) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankesh64/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ankesh64/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankesh64/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ankesh64/leetcode/tree/master/0169-majority-element) |
