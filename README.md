@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankesh64/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ankesh64/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankesh64/leetcode/tree/master/0169-majority-element) |
+| [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankesh64/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ankesh64/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -109,4 +111,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ankesh64/leetcode/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
