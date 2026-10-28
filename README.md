@@ -19,6 +19,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankesh64/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0042-trapping-rain-water](https://github.com/Ankesh64/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankesh64/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankesh64/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ankesh64/leetcode/tree/master/0136-single-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankesh64/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
