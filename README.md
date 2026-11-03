@@ -21,6 +21,7 @@
 | [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankesh64/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankesh64/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@
 | [1323-maximum-69-number](https://github.com/Ankesh64/leetcode/tree/master/1323-maximum-69-number) |
 | [2409-count-days-spent-together](https://github.com/Ankesh64/leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankesh64/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
