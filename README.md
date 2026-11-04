@@ -20,6 +20,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankesh64/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankesh64/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankesh64/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -37,6 +38,7 @@
 | [0042-trapping-rain-water](https://github.com/Ankesh64/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankesh64/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankesh64/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -57,6 +59,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ankesh64/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ankesh64/leetcode/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [1323-maximum-69-number](https://github.com/Ankesh64/leetcode/tree/master/1323-maximum-69-number) |
 | [2409-count-days-spent-together](https://github.com/Ankesh64/leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankesh64/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
@@ -147,9 +151,14 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankesh64/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankesh64/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
