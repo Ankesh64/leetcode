@@ -21,6 +21,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankesh64/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ankesh64/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankesh64/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Ankesh64/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -161,6 +162,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankesh64/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Ankesh64/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankesh64/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -172,4 +174,12 @@
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankesh64/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankesh64/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
