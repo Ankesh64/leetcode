@@ -104,6 +104,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankesh64/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ankesh64/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankesh64/leetcode/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/Ankesh64/leetcode/tree/master/1323-maximum-69-number) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ankesh64/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
