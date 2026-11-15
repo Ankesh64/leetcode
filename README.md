@@ -21,6 +21,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankesh64/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ankesh64/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Ankesh64/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankesh64/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankesh64/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Ankesh64/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -45,6 +46,7 @@
 | [0042-trapping-rain-water](https://github.com/Ankesh64/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ankesh64/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankesh64/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankesh64/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -104,6 +106,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ankesh64/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankesh64/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1323-maximum-69-number](https://github.com/Ankesh64/leetcode/tree/master/1323-maximum-69-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankesh64/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Ankesh64/leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -205,5 +208,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankesh64/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankesh64/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
