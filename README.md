@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ankesh64/leetcode/tree/master/0058-length-of-last-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankesh64/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ankesh64/leetcode/tree/master/2409-count-days-spent-together) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankesh64/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quicksort
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankesh64/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ankesh64/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
