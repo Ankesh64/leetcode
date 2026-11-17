@@ -40,6 +40,7 @@
 | [0042-trapping-rain-water](https://github.com/Ankesh64/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ankesh64/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ankesh64/leetcode/tree/master/0088-merge-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ankesh64/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0053-maximum-subarray](https://github.com/Ankesh64/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankesh64/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankesh64/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ankesh64/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -138,6 +140,7 @@
 | [0058-length-of-last-word](https://github.com/Ankesh64/leetcode/tree/master/0058-length-of-last-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ankesh64/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Ankesh64/leetcode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Ankesh64/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ankesh64/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quicksort
 |  |
