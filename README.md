@@ -24,6 +24,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ankesh64/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ankesh64/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Ankesh64/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankesh64/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ankesh64/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ankesh64/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -87,6 +88,7 @@
 | [0088-merge-sorted-array](https://github.com/Ankesh64/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ankesh64/leetcode/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankesh64/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankesh64/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankesh64/leetcode/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/Ankesh64/leetcode/tree/master/1323-maximum-69-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ankesh64/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Ankesh64/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
