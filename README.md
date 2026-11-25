@@ -34,6 +34,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ankesh64/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ankesh64/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ankesh64/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/Ankesh64/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankesh64/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ankesh64/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3934-smallest-unique-subarray](https://github.com/Ankesh64/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0169-majority-element](https://github.com/Ankesh64/leetcode/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ankesh64/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ankesh64/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3934-smallest-unique-subarray](https://github.com/Ankesh64/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,4 +236,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ankesh64/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ankesh64/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ankesh64/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Ankesh64/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
